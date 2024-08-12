@@ -2,7 +2,7 @@
 
 NEXUS-MD is a powerful and versatile WhatsApp bot built using Node.js and the Baileys library. This bot offers a wide range of features and capabilities, making it an excellent choice for both personal and commercial use cases.
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=9db4c65bb8ee&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+<img alt="NEXUS-MD" width="700" height="300" src="https://telegra.ph/file/c2ab0216f21a83c63ba3f.jpg">
 
 🚀 Deploy yourNEXUS-MD on DigitalOcean and get $200 in free credits! Click the badge above to sign up and take advantage of this amazing offer. DigitalOcean's reliable and scalable cloud infrastructure ensures your bot runs smoothly, no matter how many users you have. Don't miss out on this opportunity to supercharge your WhatsApp experience!
 
