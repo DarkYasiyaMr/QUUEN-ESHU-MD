@@ -14,6 +14,8 @@ https://shuter-session-l1xx.onrender.com
 
 [![JOIN WHATSAPP CHANEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
+[![JOIN WHATSAPP CHANEL](https://telegra.ph/file/c571dc8d43a293620ecef.jpg)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
+
 ## Table of Contents
 
 - [Installation](#installation)
