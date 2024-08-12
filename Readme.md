@@ -12,7 +12,7 @@ https://shuter-session-l1xx.onrender.com
 
 <a href="https://session-genarator-by-rodda-97b9e77fccab.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION AND DEPLOY-black" alt="GET SESSION ID" width="250"></a>
 
-
+[![JOIN WHATSAPP CHANEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
 ## Table of Contents
 
@@ -108,8 +108,6 @@ NEXUS-MD supports external plugins. You can find more information about external
 ## Community and Support
 
 Join the official WhatsApp group forNEXUS-MD to get support, ask questions, and interact with other users:
-
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
 
 ## License
