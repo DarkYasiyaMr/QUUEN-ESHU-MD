@@ -4,8 +4,7 @@ NEXUS-MD is a powerful and versatile WhatsApp bot built using Node.js and the Ba
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=9db4c65bb8ee&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-🚀 Deploy yourQUUEN ESHU-MD on DigitalOcean and get $200 in free credits! Click the badge above to sign up and take advantage of this amazing offer. DigitalOcean's reliable and scalable cloud infrastructure ensures your bot runs smoothly, no matter how many users you have. Don't miss out on this opportunity to supercharge your WhatsApp experience!
-
+🚀 Deploy yourNEXUS-MD on DigitalOcean and get $200 in free credits! Click the badge above to sign up and take advantage of this amazing offer. DigitalOcean's reliable and scalable cloud infrastructure ensures your bot runs smoothly, no matter how many users you have. Don't miss out on this opportunity to supercharge your WhatsApp experience!
 
 ## Table of Contents
 
@@ -27,16 +26,16 @@ NEXUS-MD is a powerful and versatile WhatsApp bot built using Node.js and the Ba
 
 ### Prerequisites
 
-Before installing NEXUS-MD, ensure that you have the following dependencies installed on your system:
+Before installingNEXUS-MD, ensure that you have the following dependencies installed on your system:
 
 - FFmpeg
 - Node.js
 
 ### Deploy on Any Shell (Including Termux)
 
-To deploy NEXUS-MD on any shell, including Termux, follow these steps:
+To deployNEXUS-MD on any shell, including Termux, follow these steps:
 
-1. Fork theQUUEN ESHU-MD repository
+1. Fork theNEXUS-MD repository
 2. Edit the `config.js` file with your desired configuration details
 3. Install the required dependencies by running the following commands:
    - `npm install`
@@ -52,7 +51,7 @@ To deploy NEXUS-MD on any shell, including Termux, follow these steps:
 
 ### Creating a Plugin
 
-QUUEN ESHU-MD supports custom plugins, which can be created using the following template:
+NEXUS-MD supports custom plugins, which can be created using the following template:
 
 ```javascript
 const { command, isPrivate } = require("../../lib/");
@@ -96,18 +95,18 @@ message.sendMessage(jid, "url or buffer of image or video (max 10 seconds)", { p
 
 ### External Plugins
 
-QUUEN ESHU-MD supports external plugins. You can find more information about external plugins in the [Plugins wiki](https://github.com/X-Electra/QUUEN ESHU-MD/wiki/Plugins).
+NEXUS-MD supports external plugins. You can find more information about external plugins in the [Plugins wiki](https://github.com/ACHALA-ESHAN/QUUEN-ESHU-MD/blob/main/Readme.md).
 
 ## Community and Support
 
-Join the official WhatsApp group forQUUEN ESHU-MD to get support, ask questions, and interact with other users:
+Join the official WhatsApp group forNEXUS-MD to get support, ask questions, and interact with other users:
 
-[![JOIN WHATSAPP GROUP](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
 
 ## License
 
-QUUEN ESHU-MD is licensed under the [MIT License](https://opensource.org/licenses/MIT):
+NEXUS-MD is licensed under the [MIT License](https://opensource.org/licenses/MIT):
 
 ```
 MIT License
