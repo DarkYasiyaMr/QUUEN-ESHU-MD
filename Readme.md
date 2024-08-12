@@ -102,7 +102,7 @@ QUUEN ESHU-MD supports external plugins. You can find more information about ext
 
 Join the official WhatsApp group forQUUEN ESHU-MD to get support, ask questions, and interact with other users:
 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/DJYrdBENyX33MRppEFPxV6)
+[![JOIN WHATSAPP GROUP](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
 
 ## License
