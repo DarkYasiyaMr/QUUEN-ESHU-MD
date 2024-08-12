@@ -10,6 +10,9 @@ QR AND PEYER CODE ✅
 
 https://shuter-session-l1xx.onrender.com
 
+<a href="https://session-genarator-by-rodda-97b9e77fccab.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION AND DEPLOY-black" alt="GET SESSION ID" width="250"></a>
+
+
 
 ## Table of Contents
 
