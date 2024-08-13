@@ -1,8 +1,4 @@
-# `⨷ SCAN QR`
-
-- To use This bot you need to scan the qr code<br>
-
-[Click Here To Scan](https://inrl-web.onrender.com/viwe/friendpage)
+<a href="https://session-genarator-by-rodda-97b9e77fccab.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION AND DEPLOY-black" alt="GET SESSION ID" width="250"></a>
 
 
 
