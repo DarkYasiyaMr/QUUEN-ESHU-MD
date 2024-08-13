@@ -1,3 +1,11 @@
+# `⨷ SCAN QR`
+
+- To use This bot you need to scan the qr code<br>
+
+[Click Here To Scan](https://inrl-web.onrender.com/viwe/friendpage)
+
+
+
 #NEXUS-MD
 
 NEXUS-MD is a powerful and versatile WhatsApp bot built using Node.js and the Baileys library. This bot offers a wide range of features and capabilities, making it an excellent choice for both personal and commercial use cases.
