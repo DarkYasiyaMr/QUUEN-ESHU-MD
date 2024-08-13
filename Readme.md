@@ -14,12 +14,6 @@ https://shuter-session-l1xx.onrender.com
 
 [![JOIN WHATSAPP CHANEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
-Segur! Aquí teniu un exemple simplificat d'un bot de WhatsApp en JavaScript que utilitza el sistema de codi Peyar:```javascript// Configura el sistema de codi Peyarconst Peyar = { missatges: [], addMessage: function(message) { this.messages.push(message);    }, respon: function() { return this.messages.pop();    }};// Exemples de missatgesPeyar.addMessage("Hola, com et puc ajudar?");Peyar.addMessage("Només sóc un simple bot de WhatsApp.");// Simulació de missatges entrantsconst incomingMessages = ["Hola", "Qui ets?"];// Processa els missatges entrantsincomingMessages.forEach((missatge) => { console.log("Usuari: " missatge); console.log ("Bot: " Peyar.reply());}) ;```En aquest exemple, l'objecte `Peyar` serveix com a sistema de codi per gestionar missatges al bot de WhatsApp. Pot rebre missatges i respondre'ls en conseqüència. Podeu personalitzar i ampliar aquest codi per incloure interaccions i funcionalitats més complexes.
-
-
-
-
-
 ## Table of Contents
 
 - [Installation](#installation)
