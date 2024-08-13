@@ -1,6 +1,3 @@
- [`PAIRING CODE 1 `](https://the-flash-md-sessions.onrender.com/pair)
-
-
 #NEXUS-MD
 
 NEXUS-MD is a powerful and versatile WhatsApp bot built using Node.js and the Baileys library. This bot offers a wide range of features and capabilities, making it an excellent choice for both personal and commercial use cases.
