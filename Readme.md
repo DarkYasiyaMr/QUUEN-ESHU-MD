@@ -10,7 +10,7 @@ QR AND PEYER CODE ✅
 
 https://shuter-session-l1xx.onrender.com
 
-<a href="https://session-genarator-by-rodda-97b9e77fccab.herokuapp.com/"><img src="https://img.shields.io/badge/GET-SESSION AND DEPLOY-black" alt="GET SESSION ID" width="250"></a>
+<a href="https://session-genarator-by-rodda-97b9e77fccab.herokuapp.com/"><img src="https://img.shields.io/badge/GET-HERAKU DEPLOY-black" alt="NEXUS-MD" width="250"></a>
 
 [![JOIN WHATSAPP CHANEL](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029VabteKy90x2pYTUqub3H)
 
