@@ -36,8 +36,7 @@
     "simple-git": "^3.24.0",
     "socket.io-client": "^4.7.5",
     "sqlite3": "^5.1.7",
-    "stream-buffers": "^3.0.2",
-    "Quueneshu-md": "^1.0.1"
+    "stream-buffers": "^3.0.2"
   },
   "scripts": {
     "start": "pm2 start index.js --name x-asena && pm2 logs x-asena",
@@ -45,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/X-Electra/X-Asena.git"
+    "url": "git+https://github.com/YasiyaLk0/QUUEN-ESHU-MD.git"
   },
   "keywords": [
     "bot",
@@ -54,9 +53,9 @@
   "author": "Neeraj-x0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/X-Electra/X-Asena/issues"
+    "url": "https://github.com/YasiyaLk0/QUUEN-ESHU-MD/issues"
   },
-  "homepage": "https://github.com/X-Electra/X-Asena#readme",
+  "homepage": "https://github.com/YasiyaLk0/QUUEN-ESHU-MD#readme",
   "devDependencies": {
     "@eslint/js": "^9.4.0",
     "eslint": "^9.4.0",
