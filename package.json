@@ -11,7 +11,7 @@
     "@google/generative-ai": "^0.5.0",
     "@neeraj-x0/ytsearch": "^1.0.0",
     "axios": "^1.4.0",
-    "baileys": "github:X-Electra/baileys",
+    "baileys": "github:YasiyaLk0/baileys",
     "bitly": "^4.1.1",
     "browser-id3-writer": "^4.4.0",
     "cheerio": "^1.0.0-rc.12",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YasiyaLk0/QUUEN-ESHU-MD.git"
+    "url": "git+https://github.com/DarkYasiyaMr/QUUEN-ESHU-MD.git"
   },
   "keywords": [
     "bot",
@@ -53,9 +53,9 @@
   "author": "Neeraj-x0",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YasiyaLk0/QUUEN-ESHU-MD/issues"
+    "url": "https://github.com/DarkYasiyaMr/QUUEN-ESHU-MD/issues"
   },
-  "homepage": "https://github.com/YasiyaLk0/QUUEN-ESHU-MD#readme",
+  "homepage": "https://github.com/DarkYasiyaMr/QUUEN-ESHU-MD#readme",
   "devDependencies": {
     "@eslint/js": "^9.4.0",
     "eslint": "^9.4.0",
